@@ -21,7 +21,7 @@ repository               : "academicpages/rodolfopalaciosd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Rodolfo.jpeg"
   name             : "Rodolfo Palacios"
   pronouns         : # example: "she/her"  
   bio              : "Dermatology Resident at Hospital La Fe"
