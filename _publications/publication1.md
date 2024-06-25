@@ -2,10 +2,8 @@
 title: "Multiple Primary Melanomas: Retrospective Review in a Tertiary Care Hospital"
 collection: publications
 permalink: /publication/publication1
-#excerpt: ""
 date: 2022
 venue: 'Journal of Clinical Medicine'
-#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.mdpi.com/2077-0383/11/9/2355'
 citation: 'Palacios-Diaz, R.D.; de Unamuno-Bustos, B.; Abril-Pérez, C.; Pozuelo-Ruiz, M.; Sánchez-Arraez, J.; Torres-Navarro, I.; Botella-Estrada, R. Multiple Primary Melanomas: Retrospective Review in a Tertiary Care Hospital. J. Clin. Med. 2022, 11, 2355. https://doi.org/10.3390/jcm11092355.'
 ---
