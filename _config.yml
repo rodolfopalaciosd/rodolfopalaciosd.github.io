@@ -32,12 +32,12 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #
+  googlescholar    : "https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=rodolfo+palacios+diaz&btnG="
   impactstory      : # URL
   orcid            : #
   semantic         : # URL
-  pubmed           : #
-  researchgate     : # URL
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Palacios-Diaz%20RD&cauthor_id=36256475"
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Rodolfo-David-Palacios-Diaz-2202937371"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
