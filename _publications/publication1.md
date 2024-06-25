@@ -2,7 +2,7 @@
 title: "Multiple Primary Melanomas: Retrospective Review in a Tertiary Care Hospital"
 excerpt: "In collaboration with Blanca de Unamuno-Bustos, Carlos Abril-Pérez,Mónica Pozuelo-Ruiz, Javier Sánchez-Arraez,Ignacio Torres-Navarro. andRafael Botella-Estrada"
 collection: portfolio
-permalink: "/portfolio/paper1"
+permalink: "/publications/publication1"
 
 ---
 
