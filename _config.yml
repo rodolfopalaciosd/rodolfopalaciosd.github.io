@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Rodolfo Palacios"
   pronouns         : # example: "she/her"  
-  bio              : "Medicine resident in Dermatology at Hospital La Fe"
+  bio              : "Dermatology Resident at Hospital La Fe"
   location         : "Valencia, Spain"
-  employer         : ""
+  employer         : #
   uri              : # URL
   email            : "rodolfo.palaciosd@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : #
   impactstory      : # URL
-  orcid            : ""
+  orcid            : #
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
