@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{orcid.org/0000-0002-8353-7481}}">my ORCID profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+You can also find my articles on <a href="{{orcid.org/0000-0002-8353-7481}}">my ORCID profile.
