@@ -10,16 +10,16 @@ citation: 'Palacios‐Diaz, R. D., Sahuquillo‐Torralba, A., Rocamora‐Durán,
 
 ---
 
-#Summary
+# Summary
 
-##Background and objectives
+## Background and objectives
 The increasing use of biologics in the treatment of inflammatory diseases has led to more cases of leishmaniasis in patients subjected to iatrogenic immunosuppression. The main objective was to describe the characteristics of the patients with cutaneous (CL) or mucocutaneous (MCL) leishmaniasis who were receiving a biological therapy at the time of diagnosis.
 
-##Patients and methods
+## Patients and methods
 A multicenter retrospective study was design based on a cohort of patients diagnosed with CL or MCL. All patients who were being treated with biologicals were included. For each case, two matched non-exposed patients were included for comparison.
 
-##Results
+## Results
 38 patients were diagnosed with CL or MCL while being treated with tumor necrosis factor alpha (TNF-α) inhibitors. Leishmaniasis presented more frequently as a plaque (58.3%) with a larger median lesion size (2.5 cm), ulceration (92.1%), and required a greater median number of intralesional meglumine antimoniate infiltrations (3 doses) (P < 0.05) than in non-exposed patients. We found no systemic involvement in patients being treated with anti-TNF-α. We did not find differences regarding the treatment characteristics whether biologic therapy was modified or not.
 
-##Conclusions
+## Conclusions
 Although management should be individualized, maintenance of biologic therapy does not seem to interfere with treatment of CL or MCL.
