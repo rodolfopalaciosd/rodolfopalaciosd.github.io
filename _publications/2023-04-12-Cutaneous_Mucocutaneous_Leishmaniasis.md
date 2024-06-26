@@ -10,8 +10,6 @@ citation: 'Palacios‐Diaz, R. D., Sahuquillo‐Torralba, A., Rocamora‐Durán,
 
 ---
 
-# Summary
-
 ## Background and objectives
 The increasing use of biologics in the treatment of inflammatory diseases has led to more cases of leishmaniasis in patients subjected to iatrogenic immunosuppression. The main objective was to describe the characteristics of the patients with cutaneous (CL) or mucocutaneous (MCL) leishmaniasis who were receiving a biological therapy at the time of diagnosis.
 
